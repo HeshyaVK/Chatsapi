@@ -1,0 +1,47 @@
+[
+  {
+    "position": { "row": 0, "col": 0 },
+    "size": { "rows": 2, "cols": 3 },
+    "chartType": "pie",
+    "data": {
+      "labels": ["A", "B", "C"],
+      "datasets": [
+        {
+          "data": [300, 50, 100],
+          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"]
+        }
+      ]
+    }
+  },
+  {
+    "position": { "row": 0, "col": 9 },
+    "size": { "rows": 2, "cols": 3 },
+    "chartType": "bar",
+    "data": {
+      "labels": ["January", "February", "March"],
+      "datasets": [
+        {
+          "label": "Sales",
+          "data": [65, 59, 80],
+          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"]
+        }
+      ]
+    }
+  },
+  {
+    "position": { "row": 2, "col": 0 },
+    "size": { "rows": 2, "cols": 3 },
+    "chartType": "bar",
+    "data": {
+      "labels": ["January", "February", "March"],
+      "datasets": [
+        {
+          "label": "Sales",
+          "data": [65, 59, 80],
+          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"]
+        }
+      ]
+    }
+  }
+ 
+]
